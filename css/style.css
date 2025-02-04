@@ -23,6 +23,7 @@ main {
     padding: 20px;
     border-radius: 20px;
     box-shadow: 0 6px 6px #5a01a7;
+    color: #0a0a23;
 }
 
 .input-wrapper label {
